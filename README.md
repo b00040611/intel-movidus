@@ -38,11 +38,16 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
 
 ## System Requirement and Purchase
 
-### System Requirement
+### System Requiremen
+
+* PC/OpenVINO/Intel® Movidius™ Neural Compute SDK 
+PC:intel processor
+Operating systems: Ubuntu* 16.04 (64 bit)
+Intel® Movidius™ Neural Compute Stick 1 or 2
 
 
 
-* [Anaconda](https://www.continuum.io/downloads)- The open source version of Anaconda is a high performance distribution of Python and R and includes over 100 of the most popular Python, R and Scala packages for data science.
+[Anaconda](https://www.continuum.io/downloads)- The open source version of Anaconda is a high performance distribution of Python and R and includes over 100 of the most popular Python, R and Scala packages for data science.
 
 ### Courses
 
