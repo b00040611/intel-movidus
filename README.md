@@ -55,7 +55,22 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
   * Raspberry Pi only support NCSDK, does not support OpenVINO;
   * NCSDK only support Intel® Movidius™ Neural Compute Stick 1, does not support Intel® Movidius™ Neural Compute Stick 2
   
-  
+### Purchase
+
+
+## System Setup
+### PC/OpenVINO/Intel® Movidius™ Neural Compute SDK 
+
+### Raspberry Pi/OpenVINO/Intel® Movidius™ Neural Compute stick
+
+
+
+## Demos and Resources
+### Github projects
+
+* [MobileNet-SSD](https://github.com/PINTO0309/MobileNet-SSD)
+
+
 [Anaconda](https://www.continuum.io/downloads)- The open source version of Anaconda is a high performance distribution of Python and R and includes over 100 of the most popular Python, R and Scala packages for data science.
 
 ### Courses
