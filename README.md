@@ -36,9 +36,11 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
   - [ML and DL APIs](#ml-and-dl-apis)
   - [Deeplearning using cloud](#deeplearning-using-cloud)
 
-## Python
+## System Requirement and Purchase
 
-### Python IDE
+### System Requirement
+
+
 
 * [Anaconda](https://www.continuum.io/downloads)- The open source version of Anaconda is a high performance distribution of Python and R and includes over 100 of the most popular Python, R and Scala packages for data science.
 
