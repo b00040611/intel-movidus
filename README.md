@@ -38,15 +38,24 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
 
 ## System Requirement and Purchase
 
-### System Requiremen
+### System Requirement
 
 * PC/OpenVINO/Intel® Movidius™ Neural Compute SDK 
-  * PC:intel processor
+  * PC: intel processor
   * Operating systems: Ubuntu* 16.04 (64 bit)
   * Intel® Movidius™ Neural Compute Stick 1 or 2
+  * Software: Intel® Distribution of OpenVINO™ toolkit
 
 
-
+* Raspberry Pi/OpenVINO/Intel® Movidius™ Neural Compute stick
+  * Hardware: raspberry pi 3 model b+
+  * Operating systems: Ubuntu* 16.04 (64 bit)
+  * Intel® Movidius™ Neural Compute Stick 1
+  * Software: The Intel® Movidius™ Neural Compute SDK (NCSDK1 or NCSDK2)
+  * Raspberry Pi only support NCSDK, does not support OpenVINO;
+  * NCSDK only support Intel® Movidius™ Neural Compute Stick 1, does not support Intel® Movidius™ Neural Compute Stick 2
+  
+  
 [Anaconda](https://www.continuum.io/downloads)- The open source version of Anaconda is a high performance distribution of Python and R and includes over 100 of the most popular Python, R and Scala packages for data science.
 
 ### Courses
