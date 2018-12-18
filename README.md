@@ -41,9 +41,9 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
 ### System Requiremen
 
 * PC/OpenVINO/Intel® Movidius™ Neural Compute SDK 
-PC:intel processor
-Operating systems: Ubuntu* 16.04 (64 bit)
-Intel® Movidius™ Neural Compute Stick 1 or 2
+  * PC:intel processor
+  * Operating systems: Ubuntu* 16.04 (64 bit)
+  * Intel® Movidius™ Neural Compute Stick 1 or 2
 
 
 
