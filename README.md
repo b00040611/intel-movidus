@@ -36,6 +36,9 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
   * NCSDK only support Intel® Movidius™ Neural Compute Stick 1, does not support Intel® Movidius™ Neural Compute Stick 2
   
 ### Purchase
+* [Raspberry Pi 3 Ultimate Kit](https://raspberry.piaustralia.com.au/raspberry-pi-3-ultimate-kit)
+* [Intel Neural Compute Stick 2](https://au.mouser.com/ProductDetail/Intel/NCSM2485DK?qs=byeeYqUIh0OB4GXNqgW8aw%3d%3d)
+
 
 
 ## System Setup
