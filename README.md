@@ -7,8 +7,8 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
 
 
 ## Table of Contents
-- [System Requirement and Purchase](#System Requirement and Purchase)
-  - [System Requirement](#System Requirement)
+- [System Requirement and Purchase](#System-Requirement-and-Purchase)
+  - [System Requirement](#System-Requirement)
   - [Courses](#courses)
   - [Python Books](#python-books)
   - [Other Resources](#other-resources)
