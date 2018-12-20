@@ -1,4 +1,4 @@
-# intel-movidus
+# intel-movidius
 intel-movidius setup and examples
 
 
